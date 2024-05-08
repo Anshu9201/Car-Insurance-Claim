@@ -41,7 +41,34 @@ Among vehicle types, SUVs experience the highest average claim amount, followed 
 Overall Trends:
 Private cars in highly urban areas have a higher number of insurance claims compared to commercial cars, particularly those in rural areas.
 The negative trendline between car age and claim amount indicates that older cars tend to have lower claim amounts on average compared to newer cars.
-This compiled list categorizes the insights into relevant subheadings for easy navigation and understanding in a GitHub repository.
+
+# Recommendations
+
+## Vehicle Type and Claim Amount:
+SUVs, Pickups, and Minivans Coverage: Tailor insurance products to address specific risks associated with SUVs, pickups, and minivans, considering their higher average claim amounts compared to other vehicle types.
+
+## Geographic Location and Claim Frequency:
+Urban vs. Rural Coverage: Adjust insurance offerings to account for higher claim frequency in urban areas compared to rural areas, ensuring adequate coverage for customers in densely populated regions.
+Occupational Groups and Claim Patterns:
+Blue-Collar Workers Coverage: Develop specialized insurance packages for blue-collar workers to address their higher average claim amounts.
+
+## Education Level and Gender Analysis:
+High School-Educated and Female Policyholders: Offer targeted educational resources and safe driving programs for high school-educated and female policyholders to mitigate risks and reduce claim amounts over time.
+Income Level and Claim Amount Trend:
+Low-Income Policyholders: Implement flexible payment options and discounts for low-income policyholders to ensure access to essential insurance coverage while managing claim amounts effectively.
+
+## Car Age and Claim Amount Trend:
+First-Year Coverage Enhancement: Introduce specialized coverage options for new car owners to address the higher claim amounts typically observed during the first year of car ownership.
+Overall Claims Management:
+Proactive Risk Mitigation: Invest in proactive risk mitigation measures and safety initiatives to reduce claim frequency and severity across all demographic segments and geographic locations.
+
+# Link to Tableau Public Story
+https://public.tableau.com/app/profile/angshuraj.gharami/viz/CarInsuranceClaim_17119939854380/Story?publish=yes
+
+
+
+
+
 
 
 
