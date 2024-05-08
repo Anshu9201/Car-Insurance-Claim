@@ -9,11 +9,13 @@ The dataset used for this analysis encompasses a wide range of data collected fr
 ## Customer Demographics:
 Gender Distribution:
 Female customers constitute approximately 56% of our car insurance policyholders, indicating a slightly higher presence compared to males.
+
 Marital Status:
 Approximately 59.78% of our car insurance policyholders are married individuals.
 
 ## Occupational Distribution:
 Blue-collar individuals, characterized by occupations typically involving manual labor, constitute the highest number of car insurance customers in our dataset. Additionally, they exhibit the highest income levels among all occupation groups.
+
 Clerical occupation, despite typically having lower income levels compared to other occupational groups, represents the second-highest customer base in our car insurance dataset.
 
 ## Education Levels:
@@ -22,8 +24,10 @@ Customers with educational backgrounds ranging from high school to bachelor's de
 ## Vehicle Details:
 Vehicle Type:
 Despite minivans being more expensive than SUVs, SUVs have the highest number of insurance claims, followed by minivans.
+
 Ownership Area:
 Private cars in highly urban areas have a higher number of insurance claims compared to commercial cars, particularly those in rural areas.
+
 Vehicle Age:
 The majority of insurance claims occur within the first year of owning a car, with 2104 claims reported during this period. Subsequently, claim frequency slightly increases until the car reaches the age of 8, after which it begins to decline, as observed from the Pareto chart.
 
@@ -31,8 +35,10 @@ The majority of insurance claims occur within the first year of owning a car, wi
 Claim Frequency and Amount:
 Customers with no children have higher claim amounts, claim frequency, and older claims compared to those with children.
 Among car owners with teenage children, those with no children have the highest claim amount, claim frequency, and older claim amount, which gradually decrease as the number of children increases.
+
 Income and Claim Amount:
 The negative trendline observed between claim amount and income suggests that as income increases, there is a slight decrease in the average claim amount.
+
 Occupation and Claim Amount:
 Blue-collar individuals have the highest average claim amount compared to other occupational groups, while high school-educated individuals tend to have higher claim amounts than their counterparts.
 Vehicle Type and Claim Amount:
