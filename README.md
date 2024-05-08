@@ -15,7 +15,8 @@ Approximately 59.78% of our car insurance policyholders are married individuals.
 ## Occupational Distribution:
 Blue-collar individuals, characterized by occupations typically involving manual labor, constitute the highest number of car insurance customers in our dataset. Additionally, they exhibit the highest income levels among all occupation groups.
 Clerical occupation, despite typically having lower income levels compared to other occupational groups, represents the second-highest customer base in our car insurance dataset.
-Education Levels:
+
+## Education Levels:
 Customers with educational backgrounds ranging from high school to bachelor's degrees represent the majority of our car insurance customer base.
 
 ## Vehicle Details:
