@@ -63,8 +63,7 @@ Blue-Collar Workers Coverage: Develop specialized insurance packages for blue-co
 ## Education Level and Gender Analysis:
 High School-Educated and Female Policyholders: Offer targeted educational resources and safe driving programs for high school-educated and female policyholders to mitigate risks and reduce claim amounts over time.
 
-Income Level and Claim Amount Trend:
-Low-Income Policyholders: Implement flexible payment options and discounts for low-income policyholders to ensure access to essential insurance coverage while managing claim amounts effectively.
+Income Level and Claim Amount Trend: Implement flexible payment options and discounts for low-income policyholders to ensure access to essential insurance coverage while managing claim amounts effectively.
 
 ## Car Age and Claim Amount Trend:
 First-Year Coverage Enhancement: Introduce specialized coverage options for new car owners to address the higher claim amounts typically observed during the first year of car ownership.
