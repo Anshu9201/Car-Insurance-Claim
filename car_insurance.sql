@@ -19,7 +19,7 @@ SELECT
     SUM(clm_amt) AS total_clm_amt,
     SUM(clm_freq) AS total_clm_freq,
     AVG(bluebook) AS avg_bluebook,
-    MAX(old_claim) AS max_old_claim
+    MAX(oldclaim) AS max_old_claim
 FROM 
     car_insurance
 GROUP BY 
@@ -30,7 +30,7 @@ SELECT
     SUM(clm_amt) AS total_clm_amt,
     SUM(clm_freq) AS total_clm_freq,
     AVG(bluebook) AS avg_bluebook,
-    MAX(old_claim) AS max_old_claim
+    MAX(oldclaim) AS max_old_claim
 FROM 
     car_insurance
 GROUP BY 
@@ -64,7 +64,7 @@ SELECT
     SUM(clm_amt) AS total_clm_amt,
     SUM(clm_freq) AS total_clm_freq,
     AVG(bluebook) AS avg_bluebook,
-    MAX(old_claim) AS max_old_claim
+    MAX(oldclaim) AS max_old_claim
 FROM 
     car_insurance
 GROUP BY 
@@ -76,7 +76,7 @@ SELECT
     SUM(clm_amt) AS total_clm_amt,
     SUM(clm_freq) AS total_clm_freq,
     AVG(bluebook) AS avg_bluebook,
-    MAX(old_claim) AS max_old_claim
+    MAX(oldclaim) AS max_old_claim
 FROM 
     car_insurance
 GROUP BY 
@@ -88,7 +88,7 @@ SELECT
     SUM(clm_amt) AS total_clm_amt,
     SUM(clm_freq) AS total_clm_freq,
     AVG(bluebook) AS avg_bluebook,
-    MAX(old_claim) AS max_old_claim
+    MAX(oldclaim) AS max_old_claim
 FROM 
     car_insurance
 GROUP BY 
