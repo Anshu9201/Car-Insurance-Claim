@@ -2,7 +2,7 @@
 This repository contains a comprehensive analysis of key metrics in car data and customer demographics. It includes insights on the total number of claims and claim amounts, offering valuable information to understand customer profiles, identify risks, and make informed decisions.
 
 # Data
-The dataset used for this analysis encompasses a wide range of data collected from a diverse group of customers. It includes details on demographics, socio-economic factors, vehicle specifications, and past claim records
+The dataset used for this analysis encompasses a wide range of data collected from a diverse group of customers. It includes details on demographics, socio-economic factors, vehicle specifications, and past claim records.
 
 # Insights
 
