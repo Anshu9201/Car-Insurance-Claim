@@ -1,4 +1,4 @@
-# Car Insuarance Claim Analysis.
+# Car Insuarance Claim Analysis
 This repository contains a comprehensive analysis of key metrics in car data and customer demographics. It includes insights on the total number of claims and claim amounts, offering valuable information to understand customer profiles, identify risks, and make informed decisions.
 
 # Data
